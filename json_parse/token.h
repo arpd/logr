@@ -18,6 +18,7 @@ namespace json_parse {
             FALSE,
             NULLVAL,
             COMMA,
+            COLON,
             UNDEFINED,
         };
         private:
